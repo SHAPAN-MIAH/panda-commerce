@@ -1,0 +1,20 @@
+.panda-slide .carousel-item {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.buy-now-btn {
+    background-color: #ff2379;
+}
+.catagory img{
+    width: 100px;
+}
+.catagory .catagory-box{
+    border-radius: 10px;
+}
+.subscribes{
+    background-color: #fceae8;
+}
+.frm button {
+    margin-top: 10px;
+    padding: 7px 30px;
+}
